@@ -65,3 +65,5 @@ if (require.main === module) {
 }
 
 module.exports = { YieldMapper, YieldMapperCore };
+
+# revision 1 (2025-07-07): review pass
