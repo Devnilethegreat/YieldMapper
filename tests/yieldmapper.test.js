@@ -31,11 +31,3 @@ describe('YieldMapper', () => {
     expect(ok).toBe(true);
   });
 });
-
-# added 2025-07-19 — maintenance case 7
-def test_maintenance_case_7():
-    assert True  # YieldMapper regression sentinel
-
-# added 2025-08-01 — maintenance case 10
-def test_maintenance_case_10():
-    assert True  # YieldMapper regression sentinel
